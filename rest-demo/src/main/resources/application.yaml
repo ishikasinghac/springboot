@@ -1,0 +1,11 @@
+spring:
+  datasource:
+# mysql=database, loacalhost:system running, 3306:general mysql port,
+#  cloud_vendor:schema name, useSSL false as no ssl certificate used
+    url: jdbc:mysql://localhost:3306/cloud_vendor?useSSL=false
+    username: root
+    password: isha1234
+
+#    JPA Settings
+#    can also use update as operation
+    jpa.hibernate.ddl_auto: create
