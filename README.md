@@ -1,7 +1,3 @@
-Here's a refined and more detailed `README.md` file tailored for GitHub, with sections like badges, clearer instructions, and more polished formatting to make your Spring Boot REST API project stand out:
-
----
-
 # 🚀 Spring Boot REST API - CRUD Implementation
 
 [![Java](https://img.shields.io/badge/Java-11+-brightgreen.svg)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
@@ -9,21 +5,6 @@ Here's a refined and more detailed `README.md` file tailored for GitHub, with se
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **Spring Boot REST API** is a simple, beginner-friendly project that demonstrates how to build a RESTful API with full CRUD (Create, Read, Update, Delete) functionality using Spring Boot. It is designed to serve as a foundation for larger applications or to help you understand the core concepts of building REST APIs with Spring.
-
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation and Setup](#installation-and-setup)
-- [API Endpoints](#api-endpoints)
-- [Project Structure](#project-structure)
-- [Configuration](#configuration)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [References](#references)
 
 ## ✨ Features
 
